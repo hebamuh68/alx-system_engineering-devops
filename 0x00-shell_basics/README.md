@@ -1,5 +1,9 @@
 ### Shell basics
 
+![giphy](https://user-images.githubusercontent.com/69214737/205658372-7e8653b9-e926-4a66-ba3e-3ee01ab4917a.gif)
+
+
+
    -  [0-current_working_directory](https://github.com/hebamuh68/Genomic-Data-Science-Specialization) => Write a script that prints the absolute path name of the current working directory.
    -  [1-listit](https://github.com/hebamuh68/alx-system_engineering-devops/blob/main/0x00-shell_basics/1-listit) => Display the contents list of your current directory.
    -  [2-bring_me_home](https://github.com/hebamuh68/alx-system_engineering-devops/blob/main/0x00-shell_basics/2-bring_me_home) => Write a script that changes the working directory to the user’s home directory. You are not allowed to use any shell variables
